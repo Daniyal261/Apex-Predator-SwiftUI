@@ -11,6 +11,25 @@
 		013C2D9229DD692B00C5D24B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C2D9129DD692B00C5D24B /* ContentView.swift */; };
 		013C2D9429DD692D00C5D24B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013C2D9329DD692D00C5D24B /* Assets.xcassets */; };
 		013C2D9729DD692D00C5D24B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013C2D9629DD692D00C5D24B /* Preview Assets.xcassets */; };
+		013C2D9E29DD69CE00C5D24B /* jpapexpredators.json in Resources */ = {isa = PBXBuildFile; fileRef = 013C2D9D29DD69CE00C5D24B /* jpapexpredators.json */; };
+		013C2DA129DD6B4700C5D24B /* ApexPredatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C2DA029DD6B4700C5D24B /* ApexPredatorModel.swift */; };
+		013C2DA429DD725600C5D24B /* PredatorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C2DA329DD725600C5D24B /* PredatorController.swift */; };
+		013C2DA729DD779E00C5D24B /* PredatorRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C2DA629DD779E00C5D24B /* PredatorRow.swift */; };
+		013C2DA929DD7C5300C5D24B /* PredatorDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C2DA829DD7C5300C5D24B /* PredatorDetailsView.swift */; };
+		013C2DAB29DDC78600C5D24B /* PredatorDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C2DAA29DDC78500C5D24B /* PredatorDetailController.swift */; };
+		013C2DBA29DDC90D00C5D24B /* Dilophosaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DAD29DDC90C00C5D24B /* Dilophosaurus.mp3 */; };
+		013C2DBB29DDC90D00C5D24B /* Indoraptor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DAE29DDC90C00C5D24B /* Indoraptor.mp3 */; };
+		013C2DBC29DDC90D00C5D24B /* Dimorphodon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DAF29DDC90C00C5D24B /* Dimorphodon.mp3 */; };
+		013C2DBD29DDC90D00C5D24B /* Pteranodon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB029DDC90C00C5D24B /* Pteranodon.mp3 */; };
+		013C2DBE29DDC90D00C5D24B /* Compsognathus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB129DDC90C00C5D24B /* Compsognathus.mp3 */; };
+		013C2DBF29DDC90D00C5D24B /* Indominus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB229DDC90C00C5D24B /* Indominus.mp3 */; };
+		013C2DC029DDC90D00C5D24B /* Stegosaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB329DDC90C00C5D24B /* Stegosaurus.mp3 */; };
+		013C2DC129DDC90D00C5D24B /* Velociraptor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB429DDC90D00C5D24B /* Velociraptor.mp3 */; };
+		013C2DC229DDC90D00C5D24B /* Pachycephalosaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB529DDC90D00C5D24B /* Pachycephalosaurus.mp3 */; };
+		013C2DC329DDC90D00C5D24B /* Brachiosaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB629DDC90D00C5D24B /* Brachiosaurus.mp3 */; };
+		013C2DC429DDC90D00C5D24B /* Tyrannosaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB729DDC90D00C5D24B /* Tyrannosaurus.mp3 */; };
+		013C2DC529DDC90D00C5D24B /* Mosasaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB829DDC90D00C5D24B /* Mosasaurus.mp3 */; };
+		013C2DC629DDC90D00C5D24B /* Spinosaurus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 013C2DB929DDC90D00C5D24B /* Spinosaurus.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +38,25 @@
 		013C2D9129DD692B00C5D24B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		013C2D9329DD692D00C5D24B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		013C2D9629DD692D00C5D24B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		013C2D9D29DD69CE00C5D24B /* jpapexpredators.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jpapexpredators.json; sourceTree = "<group>"; };
+		013C2DA029DD6B4700C5D24B /* ApexPredatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredatorModel.swift; sourceTree = "<group>"; };
+		013C2DA329DD725600C5D24B /* PredatorController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorController.swift; sourceTree = "<group>"; };
+		013C2DA629DD779E00C5D24B /* PredatorRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorRow.swift; sourceTree = "<group>"; };
+		013C2DA829DD7C5300C5D24B /* PredatorDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorDetailsView.swift; sourceTree = "<group>"; };
+		013C2DAA29DDC78500C5D24B /* PredatorDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorDetailController.swift; sourceTree = "<group>"; };
+		013C2DAD29DDC90C00C5D24B /* Dilophosaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dilophosaurus.mp3; sourceTree = "<group>"; };
+		013C2DAE29DDC90C00C5D24B /* Indoraptor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Indoraptor.mp3; sourceTree = "<group>"; };
+		013C2DAF29DDC90C00C5D24B /* Dimorphodon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dimorphodon.mp3; sourceTree = "<group>"; };
+		013C2DB029DDC90C00C5D24B /* Pteranodon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pteranodon.mp3; sourceTree = "<group>"; };
+		013C2DB129DDC90C00C5D24B /* Compsognathus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Compsognathus.mp3; sourceTree = "<group>"; };
+		013C2DB229DDC90C00C5D24B /* Indominus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Indominus.mp3; sourceTree = "<group>"; };
+		013C2DB329DDC90C00C5D24B /* Stegosaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Stegosaurus.mp3; sourceTree = "<group>"; };
+		013C2DB429DDC90D00C5D24B /* Velociraptor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Velociraptor.mp3; sourceTree = "<group>"; };
+		013C2DB529DDC90D00C5D24B /* Pachycephalosaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pachycephalosaurus.mp3; sourceTree = "<group>"; };
+		013C2DB629DDC90D00C5D24B /* Brachiosaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Brachiosaurus.mp3; sourceTree = "<group>"; };
+		013C2DB729DDC90D00C5D24B /* Tyrannosaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tyrannosaurus.mp3; sourceTree = "<group>"; };
+		013C2DB829DDC90D00C5D24B /* Mosasaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mosasaurus.mp3; sourceTree = "<group>"; };
+		013C2DB929DDC90D00C5D24B /* Spinosaurus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Spinosaurus.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +90,13 @@
 			isa = PBXGroup;
 			children = (
 				013C2D8F29DD692B00C5D24B /* Apex_PredatorsApp.swift */,
+				013C2DA529DD776F00C5D24B /* Views */,
+				013C2DA229DD721800C5D24B /* Controllers */,
+				013C2D9F29DD6B2200C5D24B /* Models */,
 				013C2D9129DD692B00C5D24B /* ContentView.swift */,
+				013C2DA829DD7C5300C5D24B /* PredatorDetailsView.swift */,
+				013C2D9D29DD69CE00C5D24B /* jpapexpredators.json */,
+				013C2DAC29DDC8DF00C5D24B /* sounds */,
 				013C2D9329DD692D00C5D24B /* Assets.xcassets */,
 				013C2D9529DD692D00C5D24B /* Preview Content */,
 			);
@@ -65,6 +109,51 @@
 				013C2D9629DD692D00C5D24B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		013C2D9F29DD6B2200C5D24B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				013C2DA029DD6B4700C5D24B /* ApexPredatorModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		013C2DA229DD721800C5D24B /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				013C2DA329DD725600C5D24B /* PredatorController.swift */,
+				013C2DAA29DDC78500C5D24B /* PredatorDetailController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		013C2DA529DD776F00C5D24B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				013C2DA629DD779E00C5D24B /* PredatorRow.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		013C2DAC29DDC8DF00C5D24B /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				013C2DB629DDC90D00C5D24B /* Brachiosaurus.mp3 */,
+				013C2DB129DDC90C00C5D24B /* Compsognathus.mp3 */,
+				013C2DB229DDC90C00C5D24B /* Indominus.mp3 */,
+				013C2DAE29DDC90C00C5D24B /* Indoraptor.mp3 */,
+				013C2DAD29DDC90C00C5D24B /* Dilophosaurus.mp3 */,
+				013C2DAF29DDC90C00C5D24B /* Dimorphodon.mp3 */,
+				013C2DB829DDC90D00C5D24B /* Mosasaurus.mp3 */,
+				013C2DB029DDC90C00C5D24B /* Pteranodon.mp3 */,
+				013C2DB929DDC90D00C5D24B /* Spinosaurus.mp3 */,
+				013C2DB329DDC90C00C5D24B /* Stegosaurus.mp3 */,
+				013C2DB729DDC90D00C5D24B /* Tyrannosaurus.mp3 */,
+				013C2DB529DDC90D00C5D24B /* Pachycephalosaurus.mp3 */,
+				013C2DB429DDC90D00C5D24B /* Velociraptor.mp3 */,
+			);
+			path = sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +214,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				013C2DC229DDC90D00C5D24B /* Pachycephalosaurus.mp3 in Resources */,
+				013C2DBA29DDC90D00C5D24B /* Dilophosaurus.mp3 in Resources */,
+				013C2DC429DDC90D00C5D24B /* Tyrannosaurus.mp3 in Resources */,
+				013C2DBC29DDC90D00C5D24B /* Dimorphodon.mp3 in Resources */,
+				013C2DC529DDC90D00C5D24B /* Mosasaurus.mp3 in Resources */,
 				013C2D9729DD692D00C5D24B /* Preview Assets.xcassets in Resources */,
 				013C2D9429DD692D00C5D24B /* Assets.xcassets in Resources */,
+				013C2DBE29DDC90D00C5D24B /* Compsognathus.mp3 in Resources */,
+				013C2DC629DDC90D00C5D24B /* Spinosaurus.mp3 in Resources */,
+				013C2DC329DDC90D00C5D24B /* Brachiosaurus.mp3 in Resources */,
+				013C2DBF29DDC90D00C5D24B /* Indominus.mp3 in Resources */,
+				013C2DBB29DDC90D00C5D24B /* Indoraptor.mp3 in Resources */,
+				013C2DC129DDC90D00C5D24B /* Velociraptor.mp3 in Resources */,
+				013C2DC029DDC90D00C5D24B /* Stegosaurus.mp3 in Resources */,
+				013C2D9E29DD69CE00C5D24B /* jpapexpredators.json in Resources */,
+				013C2DBD29DDC90D00C5D24B /* Pteranodon.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +240,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				013C2DA929DD7C5300C5D24B /* PredatorDetailsView.swift in Sources */,
+				013C2DA429DD725600C5D24B /* PredatorController.swift in Sources */,
 				013C2D9229DD692B00C5D24B /* ContentView.swift in Sources */,
+				013C2DAB29DDC78600C5D24B /* PredatorDetailController.swift in Sources */,
+				013C2DA129DD6B4700C5D24B /* ApexPredatorModel.swift in Sources */,
 				013C2D9029DD692B00C5D24B /* Apex_PredatorsApp.swift in Sources */,
+				013C2DA729DD779E00C5D24B /* PredatorRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +378,7 @@
 				DEVELOPMENT_TEAM = 62T8YU57TS;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Dino;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +408,7 @@
 				DEVELOPMENT_TEAM = 62T8YU57TS;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Dino;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
